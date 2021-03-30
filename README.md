@@ -1,7 +1,7 @@
 # Hela Osu - හෙළ ඔසු
 
 
-![](/public/assets/images/logo-dark.png  | width=100)
+[![helaosu](https://github.com/LakinduK/helaosu/blob/main/public/assets/images/logo-dark.png)](https://github.com/LakinduK/helaosu/blob/main/public/assets/images/logo-dark.png)
 
 # To Install and Run the Laravel project
 
