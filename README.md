@@ -47,3 +47,17 @@ php artisan serve
 * logout and login 
 ---
 
+# Screenshots
+
+![image](https://user-images.githubusercontent.com/38062348/113062074-04e9f580-9168-11eb-8955-40ae8a585e74.png)
+
+Home
+
+![image](https://user-images.githubusercontent.com/38062348/113061988-dbc96500-9167-11eb-85c6-e86d6caf983d.png)
+
+Login / Sign Up
+
+![image](https://user-images.githubusercontent.com/38062348/113062225-437fb000-9168-11eb-898e-2160d0b37b1b.png)
+
+Add Recipies
+
