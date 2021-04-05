@@ -227,7 +227,7 @@
     <div class="col-xl-12">
         <div class="card">
             <div class="card-body">
-                <h5 class="mt-0">My recipe Book</h5>
+                <h5 class="mt-0">My Recioe Book</h5>
                 
 
 
