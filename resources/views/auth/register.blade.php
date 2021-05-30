@@ -99,7 +99,7 @@
             <div class="account-title text-center text-white">
                 <h4 class="mt-3">Welcome To <span class="text-warning">Hela Osu - හෙළ ඔසු</span> </h4>
                 <h1 class="">Let's Get Started</h1>
-                <p class="font-14 mt-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam laoreet tellus ut tincidunt euismod.</p>
+                <p class="font-14 mt-3">Create your HelaOsu account now and be a part of healthy living community.</p>
                 <div class="border w-25 mx-auto border-warning"></div>
             </div>
         </div>

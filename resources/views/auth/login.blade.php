@@ -73,7 +73,7 @@
                 <div class="m-3 text-center bg-light p-3 text-warning">
                     <h4 class="">Don't have an account ? </h4>
                     <p class="font-13">Join <span>Hela Osu - හෙළ ඔසු Recipes</span> Now</p>
-                    <a href="{{ route('register') }}" class="btn btn-warning waves-effect waves-light">Free Resister</a>
+                    <a href="{{ route('register') }}" class="btn btn-warning waves-effect waves-light">Free Register</a>
                 </div>
                 <div class="mt-4 text-center">
                     <p class="mb-0 text-warning">© 2020 Hela Osu - හෙළ ඔසු Recipes.</p>
