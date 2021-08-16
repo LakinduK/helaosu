@@ -3,6 +3,9 @@
 
 [![helaosu](https://github.com/LakinduK/helaosu/blob/main/public/assets/images/logo-dark.png)](https://github.com/LakinduK/helaosu/blob/main/public/assets/images/logo-dark.png)
 
+
+## Introduction Slideshow :
+https://slides.com/lakinduk/helaosu
 # To Install and Run the Laravel project
 
 #### prerequisite -
