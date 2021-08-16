@@ -50,6 +50,10 @@ php artisan serve
 * logout and login 
 ---
 
+if you found this project valuebale, try deploying it in your own digitalocean droplet. 👦
+(affiliate link)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=a871472da2d9&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 # Screenshots
 
 ![image](https://user-images.githubusercontent.com/38062348/113062074-04e9f580-9168-11eb-8955-40ae8a585e74.png)
